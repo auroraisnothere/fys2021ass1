@@ -1,1 +1,3 @@
 # fys2021ass1
+
+The dataset “SpotifyFeatures.csv” contains information on over 20,000 songs, spanning various genres and relating to 18 different features for each song. The objective of this machine learning task is to make a logistic regression model to classify songs labeled as either “Pop” or “Classical” into their respective categories. The classification will be made based on two selected features from the dataset “Loudness” and “Liveness”. The goal is to train the logistic regression model to learn the relationship between the chosen features and the genre labels enabling the model to make a prediction of where the song belongs
